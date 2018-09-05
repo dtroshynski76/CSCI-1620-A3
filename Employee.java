@@ -1,9 +1,9 @@
-//Name: Donovan Troshynski
+//Name:
 //Class: 1620-002
 //Program #: 3
 //Due Date: 15 October 2015
 //Honor Pledge: On my honor as a student of the University of Nebraska at Omaha,I have neither given nor received unauthorized help on this homework assignment.
-//NAME: Donovan Troshynski
+//NAME:
 
 
 //Partners: NONE
